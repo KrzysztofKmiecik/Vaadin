@@ -1,4 +1,4 @@
-package pl.kmiecik.vaadin;
+package pl.kmiecik.vaadin.vaadinGui;
 
 import com.vaadin.flow.component.ClickEvent;
 import com.vaadin.flow.component.Text;
